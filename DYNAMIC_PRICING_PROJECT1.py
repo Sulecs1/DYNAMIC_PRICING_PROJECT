@@ -3,25 +3,6 @@
 ######################################################################
 #<<<Şule AKÇAY >>>
 
-#Bir oyun şirketi bir oyununda kullanıcılarına item satın
-#alımları için hediye paralar vermiştir
-#Kullanıcılar bu sanal paraları kullanarak karakterlerine
-#çeşitli araçlar satın almaktadır.
-#Oyun şirketi bir item için fiyat belirtmemiş ve
-#kullanıcılardan bu item'ı istedikleri fiyattan almalarını
-#sağlamış.
-
-#1- Item'in fiyatı kategorilere göre farklılık göstermekte
-#midir? İstatistiki olarak ifade ediniz.
-#2- İlk soruya bağlı olarak item'ın fiyatı ne olmalıdır?
-#Nedenini açıklayınız?
-#3- Fiyat konusunda "hareket edebilir olmak"
-#istenmektedir. Fiyat stratejisi için karar destek
-#sistemi oluşturunuz.
-#4- Olası fiyat değişiklikleri için item satın almalarını ve
-#gelirlerini simüle ediniz.
-
-
 #kütüphaneleri ekledim
 
 import numpy as np
